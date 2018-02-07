@@ -1,2 +1,4 @@
 # sites-de-pesquisa-academica
-Conjunto de sites de pesquisa acadêmica, sendo revistas, artigos ou livros
+Conjunto de liks de acesso a sites de pesquisa acadêmica, sendo revistas, artigos ou livros
+
+[ScienceDirect](https://www.sciencedirect.com/)
