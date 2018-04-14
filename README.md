@@ -6,3 +6,5 @@ Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, arti
 [Parliament](https://www.parliament.uk/business/publications/research/)
 
 [Arxiv](https://arxiv.org/)
+
+[Nejm](http://www.nejm.org/)
