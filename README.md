@@ -10,3 +10,5 @@ Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, arti
 [Nejm](http://www.nejm.org/)
 
 [Springer](http://www.springer.com/)
+
+[NCBI](https://www.ncbi.nlm.nih.gov)
