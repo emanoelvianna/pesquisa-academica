@@ -12,3 +12,5 @@ Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, arti
 [Springer](http://www.springer.com/)
 
 [NCBI](https://www.ncbi.nlm.nih.gov)
+
+[Bioone](http://www.bioone.org/)
