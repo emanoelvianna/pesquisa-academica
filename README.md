@@ -1,4 +1,4 @@
-# sites-de-pesquisa-academica
+# Sites de pesquisa academica
 Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, artigos ou livros
 
 [ScienceDirect](https://www.sciencedirect.com/)
@@ -16,3 +16,5 @@ Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, arti
 [Bioone](http://www.bioone.org/)
 
 [PLOS](http://journals.plos.org/)
+
+[Journal of Clinical Virology](https://www.journalofclinicalvirology.com/)
