@@ -1,20 +1,38 @@
 # Sites de pesquisa academica
-Conjunto de links de acesso a sites de pesquisa acadêmica, sendo revistas, artigos ou livros
 
-[ScienceDirect](https://www.sciencedirect.com/)
+O objetivo deste repositório é organizar os principais sites de pesquisa acadêmica.
 
-[Parliament](https://www.parliament.uk/business/publications/research/)
+#### Indice
+- [Bioinformatica](#Bioinformatica)
+- [Genéricos](#Genéricos)
+--------------------------------
 
-[Arxiv](https://arxiv.org/)
+#### Bioinformatica 
 
-[Nejm](http://www.nejm.org/)
+- [Bioinformatics](https://academic.oup.com/bioinformatics)
+- [BioRxiv](https://www.biorxiv.org/)
+- [Nucleic Acids Research](https://academic.oup.com/nar)
 
-[Springer](http://www.springer.com/)
+#### Genéricos
 
-[NCBI](https://www.ncbi.nlm.nih.gov)
+- [PMC](https://www.ncbi.nlm.nih.gov/pmc/)
 
-[Bioone](http://www.bioone.org/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
-[PLOS](http://journals.plos.org/)
+- [ScienceDirect](https://www.sciencedirect.com/)
 
-[Journal of Clinical Virology](https://www.journalofclinicalvirology.com/)
+- [Parliament](https://www.parliament.uk/business/publications/research/)
+
+- [Arxiv](https://arxiv.org/)
+
+- [Nejm](http://www.nejm.org/)
+
+- [Springer](http://www.springer.com/)
+
+- [NCBI](https://www.ncbi.nlm.nih.gov)
+
+- [Bioone](http://www.bioone.org/)
+
+- [PLOS](http://journals.plos.org/)
+
+- [Journal of Clinical Virology](https://www.journalofclinicalvirology.com/)
