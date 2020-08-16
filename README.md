@@ -15,6 +15,8 @@ O objetivo deste repositório é organizar os principais sites de pesquisa acad�
 
 #### Genéricos
 
+- [SDATA](https://www.nature.com/sdata/)
+
 - [PMC](https://www.ncbi.nlm.nih.gov/pmc/)
 
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
